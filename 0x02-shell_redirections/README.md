@@ -1,1 +1,1 @@
-readme
+readme file of shell redirections
