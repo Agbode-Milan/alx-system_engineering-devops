@@ -1,4 +1,4 @@
-#creates a file in /tmp
+#0-create_a_file.pp
 
 file { '/tmp/school':
  content => 'I love Puppet',
